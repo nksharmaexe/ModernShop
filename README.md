@@ -2,10 +2,11 @@
 
 A modern, responsive e-commerce web application built with React, TypeScript, and Tailwind CSS. This project demonstrates a full-featured shopping experience with product browsing, filtering, cart management, and a clean, intuitive user interface.
 
+**Live Demo:** [https://modern-shop-sembark.netlify.app/](https://modern-shop-sembark.netlify.app/)
+
 ![React](https://img.shields.io/badge/React-18.x-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8)
-
 
 ## ✨ Features
 
@@ -18,37 +19,42 @@ A modern, responsive e-commerce web application built with React, TypeScript, an
 - **Responsive Design**: Fully responsive UI that works seamlessly on desktop, tablet, and mobile
 - **Loading States**: Elegant skeleton loaders and spinners for better UX
 
-
 ## 🛠️ Technologies Used
 
 ### Core
+
 - **React 18** - UI library
 - **TypeScript** - Type-safe JavaScript
 - **Vite** - Build tool and dev server
 - **React Router DOM** - Client-side routing
 
 ### Styling
+
 - **Tailwind CSS** - Utility-first CSS framework
 - **Lucide React** - Icon library
 
 ### API
+
 - **Fake Store API** - Product data source
 
 ## 📦 Installation
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
 ### Steps
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/nksharmaexe/modernshop.git
 cd modernshop
 ```
 
 2. Install dependencies
+
 ```bash
 npm install
 # or
@@ -56,6 +62,7 @@ yarn install
 ```
 
 3. Start the development server
+
 ```bash
 npm run dev
 # or
